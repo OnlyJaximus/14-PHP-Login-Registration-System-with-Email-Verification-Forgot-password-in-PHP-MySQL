@@ -32,3 +32,5 @@ https://github.com/PHPMailer/PHPMailer     <br>
 ![20](https://user-images.githubusercontent.com/56784702/217830637-1457fa1f-38a7-4ab9-80da-8b4f799bc0b3.png)
 ![21](https://user-images.githubusercontent.com/56784702/217830664-33f1c412-a736-4601-aab8-590a0f93f897.png)
 ![110](https://user-images.githubusercontent.com/56784702/217830682-21f2bf3b-c7e4-4e8b-b53c-2502a5b45277.png)
+![git komande sa i bez greske](https://user-images.githubusercontent.com/56784702/217833447-80a3a796-5928-4ac4-811d-61c8d57c0448.png)
+
